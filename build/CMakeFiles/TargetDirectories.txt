@@ -1,0 +1,3 @@
+/home/zj/a/gdb调试/gdb_cmake/build/CMakeFiles/edit_cache.dir
+/home/zj/a/gdb调试/gdb_cmake/build/CMakeFiles/rebuild_cache.dir
+/home/zj/a/gdb调试/gdb_cmake/build/CMakeFiles/gdb_cmake.dir
